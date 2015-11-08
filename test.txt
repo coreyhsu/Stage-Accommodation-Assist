@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 abc
 defa
+=======
+test
+bde
+>>>>>>> 34310c53e39982a96bdcdd9ea239a030061d69cf
